@@ -1,8 +1,10 @@
-# Hola!👐
+# Hola, me llamo Jose👐
 
 ---
 
-Soy un desarrollador de software que estudió en el **Instituto Tecnológico de Barcelona** y actualmente estoy en el curso de **Full Stack** de **4GeeksAcademy**
+Soy desarrollador web y de aplicaciones multiplataforma
+Desarrollador Full-Stack con experiencia en JavaScript, Python, React y SQL. Enfocado en crear aplicaciones web eficientes y centradas en el usuario, con habilidades en trabajo en equipo y comunicación.
+A parte también desarrollador de aplicaciones multiplataforma con C# y Power Platform.
 
 ## Sobre mi
 
