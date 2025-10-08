@@ -18,7 +18,7 @@ A parte también desarrollador de aplicaciones multiplataforma con C# y Power Pl
  
 
  **Tecnlogias
- <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/-Unity-%23444444?logo=Unity"/> <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1"/>
+ <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/-Unity-%23444444?logo=Unity"/> <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1"/> <img src="![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)"/>
 
 
 
